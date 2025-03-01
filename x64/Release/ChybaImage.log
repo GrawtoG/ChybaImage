@@ -1,113 +1,90 @@
-﻿  main.cpp
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(44,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(77,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(79,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(91,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(92,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(96,36): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(97,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(101,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(102,37): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(109,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(110,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(112,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(113,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(114,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(116,43): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(116,37): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(116,31): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(147,25): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(151,25): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(184,24): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(192,34): warning C4305: "inicjowanie": obcięcie z "__int64" do "float"
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(195,33): warning C4305: "=": obcięcie z "unsigned __int64" do "float"
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(230,24): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(239,34): warning C4305: "inicjowanie": obcięcie z "__int64" do "float"
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(242,33): warning C4305: "=": obcięcie z "unsigned __int64" do "float"
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(272,32): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
-          with
-          [
-              T=float
-          ]
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(272,23): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
-          with
-          [
-              T=float
-          ]
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(287,73): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
-          with
-          [
-              T=float
-          ]
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(287,55): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
-          with
-          [
-              T=float
-          ]
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(287,37): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
-          with
-          [
-              T=float
-          ]
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(346,24): warning C4305: "inicjowanie": obcięcie z "double" do "float"
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(416,33): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(433,35): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(437,90): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
-          with
-          [
-              T=float
-          ]
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(437,69): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
-          with
-          [
-              T=float
-          ]
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(437,48): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
-          with
-          [
-              T=float
-          ]
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(448,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(449,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(456,44): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
-          with
-          [
-              T=float
-          ]
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(456,41): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
-          with
-          [
-              T=float
-          ]
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(470,138): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(470,86): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(470,36): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(472,140): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(472,88): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(472,36): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(474,140): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(474,88): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(474,36): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(476,140): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(476,88): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(476,36): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(481,169): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(481,103): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(481,37): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(487,173): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(487,105): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(487,37): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(493,163): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(493,100): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(493,37): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(499,169): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(499,103): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(499,37): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(505,175): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(505,106): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
-C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(505,37): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
+﻿  ditheringFun.cpp
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(24,77): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(24,77): warning C4244:         with
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(24,77): warning C4244:         [
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(24,77): warning C4244:             T=float
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(24,77): warning C4244:         ]
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(24,59): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(24,59): warning C4244:         with
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(24,59): warning C4244:         [
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(24,59): warning C4244:             T=float
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(24,59): warning C4244:         ]
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(24,41): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(24,41): warning C4244:         with
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(24,41): warning C4244:         [
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(24,41): warning C4244:             T=float
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(24,41): warning C4244:         ]
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(70,20): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(74,112): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(74,112): warning C4244:         with
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(74,112): warning C4244:         [
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(74,112): warning C4244:             T=float
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(74,112): warning C4244:         ]
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(74,85): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(74,85): warning C4244:         with
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(74,85): warning C4244:         [
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(74,85): warning C4244:             T=float
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(74,85): warning C4244:         ]
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(74,58): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(74,58): warning C4244:         with
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(74,58): warning C4244:         [
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(74,58): warning C4244:             T=float
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(74,58): warning C4244:         ]
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(86,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(87,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(93,86): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(93,86): warning C4244:         with
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(93,86): warning C4244:         [
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(93,86): warning C4244:             T=float
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(93,86): warning C4244:         ]
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(93,61): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(93,61): warning C4244:         with
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(93,61): warning C4244:         [
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(93,61): warning C4244:             T=float
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(93,61): warning C4244:         ]
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(93,36): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(93,36): warning C4244:         with
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(93,36): warning C4244:         [
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(93,36): warning C4244:             T=float
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\ditheringFun.cpp(93,36): warning C4244:         ]
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(24,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(41,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(43,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(55,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(56,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(60,36): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(61,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(65,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(66,37): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(74,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(75,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(77,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(78,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(79,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(82,16): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(85,37): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(88,35): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(99,31): warning C4244: "argument": konwersja z "float" do "sf::Uint32", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(127,25): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(131,25): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(164,24): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(172,16): warning C4305: "inicjowanie": obcięcie z "__int64" do "float"
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(175,13): warning C4305: "=": obcięcie z "unsigned __int64" do "float"
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(210,24): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(252,32): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(252,32): warning C4244:         with
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(252,32): warning C4244:         [
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(252,32): warning C4244:             T=float
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(252,32): warning C4244:         ]
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(252,23): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(252,23): warning C4244:         with
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(252,23): warning C4244:         [
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(252,23): warning C4244:             T=float
+C:\Users\Matieusz\VSprojects\ChybaImage\ChybaImage\main.cpp(252,23): warning C4244:         ]
   Trwa generowanie kodu
-  11 of 601 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+  4 of 467 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Zakończono generowanie kodu
